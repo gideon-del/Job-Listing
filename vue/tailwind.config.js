@@ -13,6 +13,9 @@ export default {
       fontSize: {
         main: "15px",
       },
+      fontFamily: {
+        "League-Spartan": ["League Spartan", "san-serif"],
+      },
     },
   },
   plugins: [],
